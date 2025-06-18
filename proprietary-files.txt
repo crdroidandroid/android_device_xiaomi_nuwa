@@ -674,7 +674,7 @@ odm/lib64/hw/com.qti.chi.override.so
 odm/lib64/libAF.so
 odm/lib64/libHISCppAlgos.so
 odm/lib64/libMiMotion.so
-odm/lib64/libTrueSight.so;DISABLE_CHECKELF
+odm/lib64/libTrueSight.so
 odm/lib64/libXMFaceFocus.so
 odm/lib64/libaidenoiser.so
 odm/lib64/libaidenoiserv2.so
@@ -788,7 +788,7 @@ odm/lib64/libmmcamera_lscv35.so
 odm/lib64/libmmcamera_mfnr.so
 odm/lib64/libmmcamera_mfnr_t4.so
 odm/lib64/libmmcamera_pdpc.so
-odm/lib64/libmorpho_ubwc.so;DISABLE_CHECKELF
+odm/lib64/libmorpho_ubwc.so
 odm/lib64/libmorpho_video_stabilizer.so
 odm/lib64/libmpbase.so
 odm/lib64/libofflinefeatureintf.so
