@@ -18,6 +18,6 @@
   {
     "repository": "crdroidandroid/android_hardware_xiaomi",
     "target_path": "hardware/xiaomi",
-    "branch": "15.0"
+    "branch": "16.0"
   }
 ]
