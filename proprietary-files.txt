@@ -1,5 +1,5 @@
 ## All proprietary files from this list, unless pinned and noted otherwise,
-## are taken from Xiaomi 13 Pro AQ3A.240912.001 OS2.0.212.0.VMBCNXM
+## are taken from Xiaomi 13 Pro BP2A.250605.031.A3 OS3.0.3.0.WMBCNXM
 
 # Current blobs with ELF checks disabled:
 # camera.xiaomi depends on libui-v33 which is a gnu makefile target
@@ -171,7 +171,8 @@ odm/etc/camera/beauty_config_cn.json
 odm/etc/camera/beauty_config_gl.json
 odm/etc/camera/beauty_style_nude.cng
 odm/etc/camera/bokehParams.json
-odm/etc/camera/camerabooster.json
+odm/etc/camera/cameradfx_config.json
+odm/etc/camera/cameraopt_reclaim.json
 odm/etc/camera/camxoverridesettings.txt
 odm/etc/camera/com.xiaomi.dcal.wt.data
 odm/etc/camera/com.xiaomi.dcal.wt.golden
@@ -694,6 +695,8 @@ odm/lib64/libcamera_scene.so
 odm/lib64/libcamerapostproc.so
 odm/lib64/libcamlog.so
 odm/lib64/libcamxcommonutils.so
+odm/lib64/com.xiaomi.camdfx.so
+odm/lib64/libcom.xiaomi.providercallback.so
 odm/lib64/libcamxfacialfeatures.so
 odm/lib64/libcamxfdalgo.so
 odm/lib64/libcamxfdengine.so
@@ -812,7 +815,7 @@ odm/lib64/libtriplecam_optical_zoom_control.so
 odm/lib64/libtriplecam_video_optical_zoom.so
 odm/lib64/libubifocus.so
 odm/lib64/libvideoBokeh.so
-odm/lib64/libMiVideoFilter.so
+odm/lib64/libMiPhotoFilter.so
 odm/lib64/libvideoml.so
 odm/lib64/libvideomode.so
 odm/lib64/libvidhance.so
