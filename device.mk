@@ -13,6 +13,9 @@ $(call inherit-product, vendor/xiaomi/nuwa/nuwa-vendor.mk)
 # Camera
 $(call inherit-product-if-exists, vendor/xiaomi/camera/miuicamera.mk)
 
+# BCR
+$(call inherit-product-if-exists, vendor/bcr/bcr.mk)
+
 # DSP Volume Synchronizer
 PRODUCT_PACKAGES += \
     DSPVolumeSynchronizer
