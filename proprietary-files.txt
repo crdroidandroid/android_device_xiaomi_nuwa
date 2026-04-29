@@ -1,5 +1,5 @@
 ## All proprietary files from this list, unless pinned and noted otherwise,
-## are taken from Xiaomi 13 Pro BP2A.250605.031.A3 OS3.0.3.0.WMBCNXM
+## are taken from Xiaomi 13 Pro BP2A.250605.031.A3-OS3.0.305.0.WMBCNXM
 
 # Current blobs with ELF checks disabled:
 # camera.xiaomi depends on libui-v33 which is a gnu makefile target
