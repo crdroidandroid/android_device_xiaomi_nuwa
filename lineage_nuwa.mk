@@ -26,4 +26,4 @@ PRODUCT_MODEL := 2210132C
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    BuildFingerprint=Xiaomi/nuwa/nuwa:16/BP2A.250605.031.A3/OS3.0.3.0.WMBCNXM:user/release-keys
+    BuildFingerprint=Xiaomi/nuwa/nuwa:16/BP2A.250605.031.A3/OS3.0.309.0.WMBCNXM:user/release-keys
