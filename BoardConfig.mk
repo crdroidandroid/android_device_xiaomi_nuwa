@@ -10,6 +10,9 @@ include device/xiaomi/sm8550-common/BoardConfigCommon.mk
 # Inherit from the proprietary version
 include vendor/xiaomi/nuwa/BoardConfigVendor.mk
 
+# Inherit from MiuiCamera
+-include device/xiaomi/nuwa-miuicamera/BoardConfig.mk
+
 # Touchscreen
 $(call soong_config_set, XIAOMI_TOUCH, HIGH_TOUCH_POLLING_PATH, /sys/devices/virtual/touch/touch_dev/bump_sample_rate)
 
