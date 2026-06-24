@@ -11,7 +11,7 @@ $(call inherit-product, device/xiaomi/sm8550-common/common.mk)
 $(call inherit-product, vendor/xiaomi/nuwa/nuwa-vendor.mk)
 
 # Camera
-$(call inherit-product-if-exists, vendor/xiaomi/camera/miuicamera.mk)
+$(call inherit-product-if-exists, device/xiaomi/nuwa-miuicamera/device.mk)
 
 # BCR
 $(call inherit-product-if-exists, vendor/bcr/bcr.mk)
