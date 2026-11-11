@@ -1076,7 +1076,6 @@ odm/etc/display/qdcm_calib_data_xiaomi_38_0c_0a_cmd_mode_dsc_dsi_panel.json
 odm/etc/mdss_dsi_m2_38_0c_0a_dsc_cmd_mi.xml
 
 # Display (Config)
-product/etc/displayconfig/display_id_4630947134992368259.xml:vendor/etc/displayconfig/display_id_4630947134992368259.xml
 vendor/etc/clstc_config_library.xml
 vendor/etc/display/3dlut-pt-onnx-ptq-htp-fp16.dlc
 vendor/etc/displayconfig/display_layout_configuration.xml
